@@ -57,7 +57,7 @@ If you find our work interesting/helpful, please consider citing MisBot:
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2025.emnlp-main.1604/",
     pages = "31481--31504",
-    ISBN = "979-8-89176-332-6",
+    ISBN = "979-8-89176-332-6"
 }
 ```
 ```
