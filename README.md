@@ -37,6 +37,29 @@ MisBot has two subsets: '*Information_Instances*' and '*User_Instances*':
 
 ## Citation
 If you find our work interesting/helpful, please consider citing MisBot:
+
+```
+@inproceedings{wan-etal-2025-social,
+    title = "How Do Social Bots Participate in Misinformation Spread? A Comprehensive Dataset and Analysis",
+    author = "Wan, Herun  and
+      Luo, Minnan  and
+      Ma, Zihan  and
+      Dai, Guang  and
+      Zhao, Xiang",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1604/",
+    pages = "31481--31504",
+    ISBN = "979-8-89176-332-6",
+}
+```
 ```
 @article{wan2024social,
   title={How Do Social Bots Participate in Misinformation Spread? A Comprehensive Dataset and Analysis},
